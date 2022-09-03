@@ -1,1 +1,3 @@
 # Student-Feedback-System
+The student feedback system is designed for the students keeping in mind the need for them to voice their opinion regarding the classes taken for the papers in the semester concerned. It follows a grading system where a particular faculty member is graded on the subject he/she is assigned to take classes for based on various factors like syllabus covered, problem solving, doubt clearance, interaction, regularity and an overall rating.<br> The application was developed using Python. For developing the GUI Tkinter library in python was used. We used MySQL database management system for fetching student and faculty details as well as storing the
+student’s feedback
